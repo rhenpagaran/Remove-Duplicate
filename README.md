@@ -15,8 +15,4 @@ def main():
             else:
                 remove_dup(l1)
 
-        except KeyboardInterrupt:
-            return False
-
-if __name__ == '__main__':
-    main()
+        
